@@ -1,0 +1,505 @@
+{
+  "$schema": "../schema.json",
+  "id": "2024-s",
+  "label": "Maj-juni 2024",
+  "format": "current",
+  "source": {
+    "title": "Prøve i Dansk 3, mundtlig del – censor- og eksaminatorhæfte (Maj-juni 2024)",
+    "url": "https://danskogproever.dk/media/prob2ifo/censor-og-eksaminatorhaefte-pd3-mdt.pdf"
+  },
+  "topics": [
+    {
+      "id": "stoette-til-kultur",
+      "letter": "A",
+      "title": {
+        "da": "Støtte til kultur",
+        "en": "Support for culture"
+      },
+      "picture": {
+        "file": "/sets/2024-s/stoette-til-kultur.webp",
+        "width": 1600,
+        "height": 1969,
+        "alt": "Arket med to billeder til emnet Støtte til kultur"
+      },
+      "situations": [
+        {
+          "label": "A",
+          "caption": {
+            "da": "Gratis adgang for børn",
+            "en": "Free entry for children"
+          },
+          "description": {
+            "da": "En familie med to børn står ved billetlugen på et kunstmuseum. På skiltet står der, at voksne betaler 160 kroner, studerende 100 kroner, og at børn under 18 år har gratis adgang.",
+            "en": "A family with two children stands at the ticket desk of an art museum. The sign says adults pay 160 kroner, students 100 kroner, and children under 18 get in free."
+          }
+        },
+        {
+          "label": "B",
+          "caption": {
+            "da": "Offentlig støtte til danske film",
+            "en": "Public funding for Danish films"
+          },
+          "description": {
+            "da": "Et par går ind i en biograf. Ved indgangen hænger der plakater for en ny dansk film.",
+            "en": "A couple walks into a cinema. Posters for a new Danish film hang by the entrance."
+          }
+        }
+      ],
+      "firstQuestion": [
+        {
+          "label": "A",
+          "intro": {
+            "da": "Situation A viser en familie, der er på vej ind på et kunstmuseum, hvor der er gratis adgang for børn.",
+            "en": "Situation A shows a family on their way into an art museum where there is free entry for children."
+          },
+          "question": {
+            "id": "q1-a",
+            "da": "Børn kan ofte få gratis adgang eller rabat til kulturinstitutioner som fx museer eller teatre. Hvorfor tror du, de kan det?",
+            "en": "Children can often get free entry or a discount at cultural institutions such as museums or theatres. Why do you think that is?",
+            "answer": {
+              "sentences": [
+                "Jeg tror, der er flere grunde til, at børn kan komme gratis ind eller få rabat.",
+                "For det første vil man gerne have, at børn møder kunst og kultur tidligt, så de bliver interesserede i det resten af livet.",
+                "For det andet handler det om lighed, fordi ikke alle familier har råd til at betale entré for både voksne og børn.",
+                "Hvis børnene kan komme gratis ind, er det for eksempel meget nemmere for en familie med tre børn at tage på museum en søndag.",
+                "Derudover er det også en fordel for museerne selv, fordi forældrene stadig betaler, og børnene måske bliver fremtidens gæster.",
+                "Alt i alt tror jeg, at det handler om at gøre kulturen tilgængelig for alle og om at investere i den næste generation."
+              ],
+              "en": "I think there are several reasons why children can get in for free or get a discount. Firstly, people want children to encounter art and culture early, so that they become interested in it for the rest of their lives. Secondly, it is about equality, because not all families can afford to pay admission for both adults and children. If the children can get in for free, it is, for example, much easier for a family with three children to go to a museum on a Sunday. In addition, it is also an advantage for the museums themselves, because the parents still pay, and the children may become the visitors of the future. All in all, I think it is about making culture accessible to everyone and about investing in the next generation.",
+              "status": "reviewed"
+            }
+          },
+          "followUps": [
+            {
+              "id": "q1-a-f1",
+              "da": "Synes du, det er en god idé at tage børn med på museum? Hvorfor?/Hvorfor ikke?",
+              "en": "Do you think it is a good idea to take children to a museum? Why?/Why not?",
+              "answer": {
+                "sentences": [
+                  "Ja, jeg synes, det er en rigtig god idé.",
+                  "For det første lærer børn meget, når de ser tingene med egne øjne, for eksempel gamle redskaber eller store malerier.",
+                  "Desuden får familien en god oplevelse sammen, og man kan tale om det bagefter.",
+                  "Man skal dog vælge et museum, der passer til barnets alder, og ikke blive der for længe.",
+                  "Ellers keder børnene sig hurtigt, og så får de et dårligt indtryk af museer."
+                ],
+                "en": "Yes, I think it is a really good idea. Firstly, children learn a lot when they see things with their own eyes, for example old tools or large paintings. In addition, the family has a good experience together, and you can talk about it afterwards. However, you should choose a museum that suits the child's age and not stay there too long. Otherwise the children quickly get bored, and then they get a bad impression of museums.",
+                "status": "reviewed"
+              }
+            }
+          ]
+        },
+        {
+          "label": "B",
+          "intro": {
+            "da": "Situation B viser en biograf, der reklamerer for en ny dansk film.",
+            "en": "Situation B shows a cinema advertising a new Danish film."
+          },
+          "question": {
+            "id": "q1-b",
+            "da": "I Danmark kan kunstnere få støtte af staten til at lave film. Hvorfor tror du, de kan det?",
+            "en": "In Denmark, artists can get state funding to make films. Why do you think that is?",
+            "answer": {
+              "sentences": [
+                "Jeg tror, at staten støtter danske film af flere grunde.",
+                "For det første er Danmark et lille land med et lille sprog.",
+                "Derfor er det svært at tjene nok penge på en film, som kun bliver vist i Danmark.",
+                "Uden støtte ville der sandsynligvis blive lavet meget få danske film.",
+                "For det andet er film en vigtig del af den danske kultur, fordi de fortæller historier om samfundet og om danskernes liv.",
+                "Desuden kan danske film, der bliver populære i udlandet, gøre Danmark mere kendt og tiltrække turister.",
+                "Kort sagt skal støtten sikre, at der også i fremtiden bliver lavet film på dansk."
+              ],
+              "en": "I think the state supports Danish films for several reasons. Firstly, Denmark is a small country with a small language. Therefore it is difficult to earn enough money from a film that is only shown in Denmark. Without support, very few Danish films would probably be made. Secondly, films are an important part of Danish culture, because they tell stories about society and about Danes' lives. In addition, Danish films that become popular abroad can make Denmark better known and attract tourists. In short, the support is meant to ensure that films are still made in Danish in the future.",
+              "status": "reviewed"
+            }
+          },
+          "followUps": [
+            {
+              "id": "q1-b-f1",
+              "da": "Synes du, det er vigtigt, at staten støtter danske film? Hvorfor?/Hvorfor ikke?",
+              "en": "Do you think it is important that the state supports Danish films? Why?/Why not?",
+              "answer": {
+                "sentences": [
+                  "Ja, jeg synes, det er vigtigt, at staten støtter danske film.",
+                  "Hvis der ikke var nogen støtte, ville vi næsten kun se amerikanske film i biografen og på tv.",
+                  "Danske film er desuden en god måde at lære sproget og forstå kulturen på, især for udlændinge.",
+                  "Selvfølgelig skal pengene bruges fornuftigt, fordi der også er andre vigtige områder.",
+                  "Men generelt synes jeg, at støtten er en god investering i dansk kultur."
+                ],
+                "en": "Yes, I think it is important that the state supports Danish films. If there were no support, we would almost only see American films at the cinema and on TV. Danish films are also a good way to learn the language and understand the culture, especially for foreigners. Of course the money must be spent sensibly, because there are also other important areas. But generally, I think the support is a good investment in Danish culture.",
+                "status": "reviewed"
+              }
+            }
+          ]
+        }
+      ],
+      "secondQuestion": {
+        "question": {
+          "id": "q2",
+          "da": "Nogle kommuner vælger at bruge mange penge på store, internationale sportsbegivenheder som europamesterskaber og verdensmesterskaber. Hvilke fordele og ulemper mener du, der kan være ved det for kommunerne?",
+          "en": "Some municipalities choose to spend a lot of money on large international sporting events such as European championships and world championships. What advantages and disadvantages do you think this can have for the municipalities?",
+          "answer": {
+            "sentences": [
+              "Jeg mener, at der er både fordele og ulemper ved det.",
+              "En stor fordel er, at kommunen bliver kendt, også uden for Danmark.",
+              "Der kommer mange turister, som bruger penge på hoteller, restauranter og butikker, og det gavner de lokale virksomheder.",
+              "Desuden kan en stor begivenhed gøre borgerne stolte og inspirere børn og unge til at dyrke sport.",
+              "På den anden side er det meget dyrt, og det er ikke sikkert, at kommunen får pengene tilbage.",
+              "Begivenheden varer måske kun få dage, men det kan koste rigtig mange penge at bygge nye stadioner og haller.",
+              "De penge kunne man i stedet have brugt på skoler eller ældrepleje.",
+              "Alt i alt mener jeg, at det kan være en god idé, men kun hvis kommunen har råd til det."
+            ],
+            "en": "I think there are both advantages and disadvantages. A big advantage is that the municipality becomes known, also outside Denmark. Many tourists come and spend money on hotels, restaurants and shops, and that benefits local businesses. In addition, a big event can make the citizens proud and inspire children and young people to do sport. On the other hand, it is very expensive, and it is not certain that the municipality will get the money back. The event may only last a few days, but it can cost a great deal of money to build new stadiums and sports halls. That money could have been spent on schools or care for the elderly instead. All in all, I think it can be a good idea, but only if the municipality can afford it.",
+            "status": "reviewed"
+          }
+        },
+        "followUps": [
+          {
+            "id": "q2-f1",
+            "da": "Mener du, at en kommune hellere skulle prioritere at bruge penge på andre områder end store, internationale sportsbegivenheder – fx børnepasning eller ældrepleje? Hvorfor?/Hvorfor ikke?",
+            "en": "Do you think a municipality would do better to prioritise spending money on areas other than large international sporting events – for example childcare or care for the elderly? Why?/Why not?",
+            "answer": {
+              "sentences": [
+                "Ja, jeg mener, at børnepasning og ældrepleje bør komme først.",
+                "Det er kommunens vigtigste opgave at tage sig af borgerne, især dem, der ikke kan klare sig selv.",
+                "Hvis der er for få pædagoger i børnehaven eller for lidt tid til de ældre, går det ud over mange mennesker hver eneste dag.",
+                "En sportsbegivenhed er selvfølgelig sjov, men den varer kun kort tid.",
+                "Derfor synes jeg, at kommunen kun skal bruge penge på store begivenheder, hvis velfærden fungerer godt."
+              ],
+              "en": "Yes, I think childcare and care for the elderly should come first. It is the municipality's most important task to take care of its citizens, especially those who cannot manage on their own. If there are too few childcare workers in the kindergarten or too little time for the elderly, it affects many people every single day. A sporting event is of course fun, but it only lasts a short time. Therefore I think the municipality should only spend money on big events if welfare works well.",
+              "status": "reviewed"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": "mangel-paa-arbejdskraft",
+      "letter": "B",
+      "title": {
+        "da": "Mangel på arbejdskraft",
+        "en": "Labour shortage"
+      },
+      "picture": {
+        "file": "/sets/2024-s/mangel-paa-arbejdskraft.webp",
+        "width": 1599,
+        "height": 1945,
+        "alt": "Arket med to billeder til emnet Mangel på arbejdskraft"
+      },
+      "situations": [
+        {
+          "label": "A",
+          "caption": {
+            "da": "Mangel på medarbejdere i sundhedssektoren",
+            "en": "Shortage of staff in the health sector"
+          },
+          "description": {
+            "da": "En sygeplejerske har travlt på en hospitalsstue med tre patienter i sengene. En af patienterne prøver at få hendes opmærksomhed.",
+            "en": "A nurse is busy on a hospital ward with three patients in bed. One of the patients is trying to get her attention."
+          }
+        },
+        {
+          "label": "B",
+          "caption": {
+            "da": "Mangel på arbejdskraft i byggebranchen",
+            "en": "Labour shortage in the construction industry"
+          },
+          "description": {
+            "da": "En byggeplads, hvor arbejdet ikke er gået i gang. Der står en gravemaskine og byggematerialer, men der er ingen arbejdere. På et skilt står der: Her bygger vi almene boliger.",
+            "en": "A building site where work has not started. There is an excavator and building materials, but no workers. A sign says: Here we are building social housing."
+          }
+        }
+      ],
+      "firstQuestion": [
+        {
+          "label": "A",
+          "intro": {
+            "da": "Situation A viser en sygeplejerske, der har ansvar for mange patienter og har travlt.",
+            "en": "Situation A shows a busy nurse who is responsible for many patients."
+          },
+          "question": {
+            "id": "q1-a",
+            "da": "Der mangler arbejdskraft i sundhedssektoren, fx sygeplejersker og social- og sundhedsassistenter. Hvorfor tror du, der gør det?",
+            "en": "There is a labour shortage in the health sector, for example of nurses and social and healthcare assistants. Why do you think that is?",
+            "answer": {
+              "sentences": [
+                "Jeg tror, der er flere forklaringer på det.",
+                "For det første bliver der flere og flere ældre i Danmark, og de har ofte brug for meget pleje og behandling.",
+                "Derfor stiger behovet for personale hurtigere, end man kan nå at uddanne nye.",
+                "For det andet er arbejdet hårdt, både fysisk og psykisk, og mange skal arbejde om aftenen, om natten og i weekenden.",
+                "Samtidig synes mange, at lønnen er for lav i forhold til det store ansvar, de har.",
+                "Det betyder, at færre unge søger ind på uddannelserne, og at nogle af dem, der allerede er uddannet, skifter til et andet job.",
+                "Samlet set handler det både om flere ældre og om dårlige arbejdsvilkår."
+              ],
+              "en": "I think there are several explanations for it. Firstly, there are more and more elderly people in Denmark, and they often need a lot of care and treatment. Therefore the need for staff is growing faster than new people can be trained. Secondly, the work is hard, both physically and mentally, and many have to work evenings, nights and weekends. At the same time, many think the pay is too low compared with the great responsibility they have. This means that fewer young people apply for these programmes, and that some of those who are already trained switch to another job. Overall, it is about both more elderly people and poor working conditions.",
+              "status": "reviewed"
+            }
+          },
+          "followUps": [
+            {
+              "id": "q1-a-f1",
+              "da": "Hvilke problemer mener du, der kan være ved, at der mangler sygeplejersker og social- og sundhedsassistenter?",
+              "en": "What problems do you think a shortage of nurses and social and healthcare assistants can cause?",
+              "answer": {
+                "sentences": [
+                  "Det største problem er, at patienterne og de ældre ikke får den hjælp, de har brug for.",
+                  "For eksempel kan ventetiden på en operation blive længere, og de ældre får måske kun hjælp til det mest nødvendige.",
+                  "Derudover får de ansatte, der er tilbage, endnu mere travlt, og mange bliver stressede.",
+                  "Så kan der også ske flere fejl, og nogle bliver sygemeldt eller siger op, så problemet bliver endnu større.",
+                  "Det bliver en ond cirkel."
+                ],
+                "en": "The biggest problem is that patients and elderly people do not get the help they need. For example, the waiting time for an operation can become longer, and the elderly may only get help with the most necessary things. In addition, the employees who are left get even busier, and many become stressed. Then more mistakes can also happen, and some go on sick leave or quit, so the problem becomes even bigger. It becomes a vicious circle.",
+                "status": "reviewed"
+              }
+            }
+          ]
+        },
+        {
+          "label": "B",
+          "intro": {
+            "da": "Situation B viser en byggeplads, hvor arbejdet endnu ikke er gået i gang.",
+            "en": "Situation B shows a building site where the work has not yet started."
+          },
+          "question": {
+            "id": "q1-b",
+            "da": "Der mangler arbejdskraft i byggebranchen, fx tømrere og jord- og betonarbejdere. Hvorfor tror du, der gør det?",
+            "en": "There is a labour shortage in the construction industry, for example of carpenters, groundworkers and concrete workers. Why do you think that is?",
+            "answer": {
+              "sentences": [
+                "Det tror jeg, der er flere grunde til.",
+                "For det første bliver der bygget meget, især i de store byer, hvor der mangler boliger.",
+                "For det andet vælger mange unge at gå i gymnasiet i stedet for at tage en erhvervsuddannelse.",
+                "Mange forældre ønsker, at deres børn skal læse videre, og håndværksfag har ikke altid haft høj status.",
+                "Desuden er arbejdet fysisk hårdt, og man skal arbejde udendørs i både regn og kulde.",
+                "Derfor bliver nogle håndværkere nedslidte og må stoppe, før de når pensionsalderen.",
+                "Der er altså mere arbejde, men færre, der vil eller kan udføre det."
+              ],
+              "en": "I think there are several reasons for that. Firstly, a lot of building is going on, especially in the big cities, where there is a shortage of housing. Secondly, many young people choose to go to upper secondary school instead of taking a vocational education. Many parents want their children to go on to further studies, and skilled trades have not always had high status. In addition, the work is physically hard, and you have to work outdoors in both rain and cold. Therefore some craftsmen become worn out and have to stop before they reach retirement age. So there is more work, but fewer people who want to or are able to do it.",
+              "status": "reviewed"
+            }
+          },
+          "followUps": [
+            {
+              "id": "q1-b-f1",
+              "da": "Hvilke problemer mener du, der kan være ved, at der mangler arbejdskraft inden for byggebranchen?",
+              "en": "What problems do you think a labour shortage in the construction industry can cause?",
+              "answer": {
+                "sentences": [
+                  "Det største problem er, at nye boliger, skoler og veje ikke bliver færdige til tiden.",
+                  "Når der er for få håndværkere, bliver det også dyrere at bygge, fordi virksomhederne kan tage højere priser.",
+                  "Det går ud over almindelige familier, som for eksempel skal vente længe på at få renoveret deres hus.",
+                  "Desuden kan kvaliteten blive dårligere, hvis de få medarbejdere har for travlt.",
+                  "Derfor er manglen på arbejdskraft et problem for hele samfundet."
+                ],
+                "en": "The biggest problem is that new housing, schools and roads are not finished on time. When there are too few craftsmen, it also becomes more expensive to build, because the companies can charge higher prices. That affects ordinary families, who, for example, have to wait a long time to get their house renovated. In addition, the quality can get worse if the few employees are too busy. Therefore the labour shortage is a problem for the whole of society.",
+                "status": "reviewed"
+              }
+            }
+          ]
+        }
+      ],
+      "secondQuestion": {
+        "question": {
+          "id": "q2",
+          "da": "Ved mangel på arbejdskraft kan man fra politisk side vælge at gøre det nemmere for virksomheder at rekruttere udenlandsk arbejdskraft. Hvilke fordele og ulemper mener du, der kan være ved det for samfundet?",
+          "en": "When there is a labour shortage, politicians can choose to make it easier for companies to recruit foreign labour. What advantages and disadvantages do you think this can have for society?",
+          "answer": {
+            "sentences": [
+              "Der er efter min mening både fordele og ulemper.",
+              "Den største fordel er, at virksomhederne hurtigt kan få de medarbejdere, de mangler.",
+              "Så kan hospitaler og byggepladser fungere, og virksomhederne kan vokse og betale skat.",
+              "Derudover kan udenlandske medarbejdere bidrage med nye idéer og erfaringer fra deres hjemland.",
+              "En ulempe er, at det kan være svært for dem at blive integreret, hvis de ikke taler dansk og ikke kender kulturen.",
+              "Der er også en risiko for, at nogle arbejdsgivere udnytter udenlandske arbejdere og giver dem lavere løn.",
+              "Det kan presse lønningerne ned for alle.",
+              "Alt i alt mener jeg, at det er en god løsning, så længe de udenlandske medarbejdere får ordentlige vilkår og hjælp til at lære sproget."
+            ],
+            "en": "In my opinion, there are both advantages and disadvantages. The biggest advantage is that companies can quickly get the employees they need. Then hospitals and building sites can function, and companies can grow and pay taxes. In addition, foreign employees can contribute new ideas and experience from their home countries. A disadvantage is that it can be difficult for them to become integrated if they do not speak Danish and do not know the culture. There is also a risk that some employers exploit foreign workers and give them lower pay. That can push wages down for everyone. All in all, I think it is a good solution, as long as the foreign employees get proper conditions and help to learn the language.",
+            "status": "reviewed"
+          }
+        },
+        "followUps": [
+          {
+            "id": "q2-f1",
+            "da": "Mener du, det er i orden at rekruttere udenlandsk arbejdskraft, selvom der er borgere i Danmark, der er arbejdsløse? Hvorfor?/Hvorfor ikke?",
+            "en": "Do you think it is acceptable to recruit foreign labour even though there are citizens in Denmark who are unemployed? Why?/Why not?",
+            "answer": {
+              "sentences": [
+                "Ja, jeg mener, det er i orden, men man bør først prøve at få de arbejdsløse i arbejde.",
+                "Problemet er, at mange arbejdsløse ikke har den uddannelse, som virksomhederne har brug for.",
+                "En person med en kontoruddannelse kan for eksempel ikke bare arbejde som sygeplejerske eller tømrer fra den ene dag til den anden.",
+                "Derfor er det fint at hente medarbejdere fra udlandet, mens man samtidig tilbyder de arbejdsløse efteruddannelse."
+              ],
+              "en": "Yes, I think it is acceptable, but you should first try to get the unemployed into work. The problem is that many unemployed people do not have the education that the companies need. A person with office training, for example, cannot just work as a nurse or a carpenter from one day to the next. Therefore it is fine to bring in employees from abroad, while at the same time offering the unemployed further training.",
+              "status": "reviewed"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": "paedagogik-i-folkeskolen",
+      "letter": "C",
+      "title": {
+        "da": "Pædagogik i folkeskolen",
+        "en": "Teaching methods in Danish state schools"
+      },
+      "picture": {
+        "file": "/sets/2024-s/paedagogik-i-folkeskolen.webp",
+        "width": 1600,
+        "height": 2013,
+        "alt": "Arket med to billeder til emnet Pædagogik i folkeskolen"
+      },
+      "situations": [
+        {
+          "label": "A",
+          "caption": {
+            "da": "Uro i klassen",
+            "en": "Disruption in the classroom"
+          },
+          "description": {
+            "da": "En lærer står med en bog foran klassen, men mange af eleverne snakker, kigger væk eller laver noget andet.",
+            "en": "A teacher stands in front of the class with a book, but many of the pupils are talking, looking away or doing something else."
+          }
+        },
+        {
+          "label": "B",
+          "caption": {
+            "da": "Ingen karakterer i de små klasser",
+            "en": "No grades in the early school years"
+          },
+          "description": {
+            "da": "Små børn sidder i grupper ved bordene og arbejder sammen om en opgave, mens læreren hjælper en af grupperne.",
+            "en": "Young children sit in groups at tables working together on a task while the teacher helps one of the groups."
+          }
+        }
+      ],
+      "firstQuestion": [
+        {
+          "label": "A",
+          "intro": {
+            "da": "Situation A viser en folkeskoleklasse, hvor flere af børnene er urolige og uopmærksomme.",
+            "en": "Situation A shows a state school class where several of the children are restless and inattentive."
+          },
+          "question": {
+            "id": "q1-a",
+            "da": "I nogle klasser i folkeskolen er der meget uro. Hvorfor tror du, der er det?",
+            "en": "In some state school classes there is a lot of disruption. Why do you think that is?",
+            "answer": {
+              "sentences": [
+                "Jeg tror, der kan være mange forskellige årsager til uro i klassen.",
+                "For det første er der ofte mange elever i en klasse, og nogle af dem har svært ved at koncentrere sig.",
+                "Hvis læreren skal hjælpe mange børn på samme tid, kan det være svært at skabe ro.",
+                "For det andet er mange børn vant til mobiltelefoner og computerspil, hvor der hele tiden sker noget nyt.",
+                "Derfor kan de have svært ved at sidde stille og lytte i lang tid.",
+                "Desuden kan uroen skyldes problemer derhjemme, eller at undervisningen er for let eller for svær for nogle elever.",
+                "Jeg tror altså, at det er en blanding af store klasser, skærme og elevernes forskellige behov."
+              ],
+              "en": "I think there can be many different causes of disruption in the classroom. Firstly, there are often many pupils in a class, and some of them find it hard to concentrate. If the teacher has to help many children at the same time, it can be difficult to keep the class calm. Secondly, many children are used to mobile phones and computer games, where something new is happening all the time. Therefore they can find it hard to sit still and listen for a long time. In addition, the disruption can be due to problems at home, or to the teaching being too easy or too difficult for some pupils. So I think it is a mix of large classes, screens and the pupils' different needs.",
+              "status": "reviewed"
+            }
+          },
+          "followUps": [
+            {
+              "id": "q1-a-f1",
+              "da": "Hvad mener du, lærerne kan gøre for at begrænse uroen i klasserne?",
+              "en": "What do you think teachers can do to reduce disruption in class?",
+              "answer": {
+                "sentences": [
+                  "Jeg mener, at lærerne kan gøre flere ting.",
+                  "For det første er det vigtigt med klare regler, som eleverne selv har været med til at lave.",
+                  "Derudover kan læreren variere undervisningen, så eleverne ikke sidder stille i for lang tid.",
+                  "For eksempel kan klassen holde små pauser med bevægelse eller arbejde i grupper.",
+                  "Endelig er et godt samarbejde med forældrene vigtigt, så de også taler med deres børn om at opføre sig ordentligt."
+                ],
+                "en": "I think the teachers can do several things. Firstly, it is important to have clear rules that the pupils themselves have helped to make. In addition, the teacher can vary the teaching so that the pupils do not sit still for too long. For example, the class can take short breaks with physical activity or work in groups. Finally, good cooperation with the parents is important, so that they also talk to their children about behaving properly.",
+                "status": "reviewed"
+              }
+            }
+          ]
+        },
+        {
+          "label": "B",
+          "intro": {
+            "da": "Situation B viser en klasse, hvor eleverne sidder og arbejder sammen om en opgave.",
+            "en": "Situation B shows a class where the pupils are sitting and working together on a task."
+          },
+          "question": {
+            "id": "q1-b",
+            "da": "Eleverne får ikke karakterer i de første klasser i folkeskolen. Hvorfor tror du, det er sådan?",
+            "en": "Pupils do not get grades in the first years of state school. Why do you think that is?",
+            "answer": {
+              "sentences": [
+                "Jeg tror, der er flere grunde til, at de yngste elever ikke får karakterer.",
+                "For det første udvikler børn sig meget forskelligt, og nogle har bare brug for mere tid end andre.",
+                "Hvis et lille barn får en dårlig karakter, kan det miste selvtilliden og lysten til at lære.",
+                "For det andet skal de første skoleår handle om at lære at samarbejde og have det godt sammen med de andre.",
+                "Karakterer kan skabe konkurrence mellem eleverne, og det passer ikke så godt til små børn.",
+                "I stedet har forældrene skole-hjem-samtaler med læreren, hvor de hører, hvordan barnet klarer sig.",
+                "Formålet er efter min mening at give børnene en tryg og god start på skolelivet."
+              ],
+              "en": "I think there are several reasons why the youngest pupils do not get grades. Firstly, children develop very differently, and some simply need more time than others. If a small child gets a bad grade, they can lose their self-confidence and their desire to learn. Secondly, the first school years should be about learning to cooperate and feeling good together with the others. Grades can create competition between the pupils, and that does not suit small children very well. Instead, the parents have parent-teacher meetings, where they hear how the child is doing. In my opinion, the purpose is to give the children a safe and good start to school life.",
+              "status": "reviewed"
+            }
+          },
+          "followUps": [
+            {
+              "id": "q1-b-f1",
+              "da": "Kan der være nogen problemer ved, at der ikke gives karakterer i de første klasser i folkeskolen?",
+              "en": "Can there be any problems with not giving grades in the first years of state school?",
+              "answer": {
+                "sentences": [
+                  "Ja, der kan godt være nogle problemer.",
+                  "Uden karakterer kan det være svært for forældrene at vide, om deres barn klarer sig godt eller dårligt.",
+                  "Nogle elever bliver måske også mindre motiverede, fordi de ikke kan se, hvor langt de er nået.",
+                  "Derudover kan det være et chok, når de pludselig får karakterer i de større klasser.",
+                  "Men hvis læreren giver gode tilbagemeldinger på en anden måde, synes jeg, at fordelene er større end ulemperne."
+                ],
+                "en": "Yes, there can certainly be some problems. Without grades, it can be difficult for the parents to know whether their child is doing well or badly. Some pupils may also become less motivated, because they cannot see how far they have come. In addition, it can be a shock when they suddenly get grades in the older year groups. But if the teacher gives good feedback in another way, I think the advantages are greater than the disadvantages.",
+                "status": "reviewed"
+              }
+            }
+          ]
+        }
+      ],
+      "secondQuestion": {
+        "question": {
+          "id": "q2",
+          "da": "I folkeskolen går eleverne typisk i samme klasse i de fleste fag, selvom de har forskelligt fagligt niveau. Hvilke fordele og ulemper mener du, der kan være ved det i forhold til børnenes faglige og sociale udvikling?",
+          "en": "In state school, pupils are typically in the same class for most subjects, even though they are at different academic levels. What advantages and disadvantages do you think this can have for the children's academic and social development?",
+          "answer": {
+            "sentences": [
+              "Efter min mening har det både fordele og ulemper.",
+              "En fordel er, at børnene lærer at være sammen med mange forskellige slags mennesker.",
+              "Det er godt for den sociale udvikling, og de fagligt stærke elever kan hjælpe dem, der har sværere ved fagene, så begge parter lærer noget.",
+              "Desuden undgår man, at nogle børn bliver sat på det svage hold og mister troen på sig selv.",
+              "På den anden side kan det være svært for læreren at undervise elever på meget forskellige niveauer.",
+              "De dygtige elever keder sig måske, mens andre ikke kan følge med.",
+              "Det kan gå ud over den faglige udvikling for begge grupper.",
+              "Alt i alt synes jeg, at det er en god idé, hvis læreren har tid til at give eleverne opgaver på forskellige niveauer."
+            ],
+            "en": "In my opinion, it has both advantages and disadvantages. One advantage is that the children learn to be together with many different kinds of people. That is good for their social development, and the academically strong pupils can help those who find the subjects harder, so both sides learn something. In addition, you avoid some children being put in the bottom group and losing faith in themselves. On the other hand, it can be difficult for the teacher to teach pupils at very different levels. The able pupils may get bored, while others cannot keep up. That can harm the academic development of both groups. All in all, I think it is a good idea if the teacher has time to give the pupils tasks at different levels.",
+            "status": "reviewed"
+          }
+        },
+        "followUps": [
+          {
+            "id": "q2-f1",
+            "da": "Hvad mener du, det betyder for samfundet, at børn går i samme klasse, selvom de har forskelligt fagligt niveau?",
+            "en": "What do you think it means for society that children are in the same class even though they are at different academic levels?",
+            "answer": {
+              "sentences": [
+                "Jeg mener, at det styrker sammenholdet i samfundet.",
+                "Når børn fra forskellige familier og med forskellige evner går i klasse sammen, lærer de at forstå og respektere hinanden.",
+                "Det tager de med sig, når de bliver voksne og skal arbejde sammen med andre.",
+                "På den måde bliver der mindre afstand mellem de forskellige grupper i samfundet.",
+                "Til gengæld kan samfundet måske gå glip af nogle talenter, hvis de dygtigste elever ikke bliver udfordret nok."
+              ],
+              "en": "I think it strengthens cohesion in society. When children from different families and with different abilities are in the same class, they learn to understand and respect each other. They take that with them when they grow up and have to work together with others. In that way, there is less distance between the different groups in society. On the other hand, society may miss out on some talents if the most able pupils are not challenged enough.",
+              "status": "reviewed"
+            }
+          }
+        ]
+      }
+    }
+  ]
+}
